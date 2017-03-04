@@ -11,6 +11,9 @@ public class ExamGenerator {
     static int questionMaxScore = 30;
     
     public static void generateQuestions(){
+        String[] chapter = {"Logika","Himpunan","Induksi","Fungsi","Kombinatorial",
+                            "Rekurensi","Graf","Pohon","Kompleksitas","Boolean"};
+        String[] type = {"essay","multichoice","calculated","shortanswer","truefalse"};
         Random r = new Random();
         try{
             //Scanner in = new Scanner(System.in);
@@ -19,8 +22,9 @@ public class ExamGenerator {
             for (int cas = 1; cas <= t; cas++){
                 out.write( cas + " "); //id
                 out.write( getLinnearRandomNumber(questionMaxScore) + " "); //score
+                out.write( type[r.nextInt(5)] + " "); //type
                 out.write( r.nextInt(100000)/100000f + " "); //difficulty
-                out.write( r.nextInt(10)+1 + " "); //knowledge
+                out.write( chapter[r.nextInt(10)] + " "); //knowledge
                 out.write( r.nextInt(100000)/100000f + " "); //distinguishing degree
                 out.write( r.nextInt(20)+1 + "\n"); //time
             }
@@ -47,7 +51,7 @@ public class ExamGenerator {
     }
     
     public static void main(String[] args) {
-        //generateQuestions();
+        generateQuestions();
         
     }
 }

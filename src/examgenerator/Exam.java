@@ -3,14 +3,17 @@ package examgenerator;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.HashMap;
 import java.util.Locale;
 import java.util.Scanner;
 
 public class Exam {
     public static int nQuestion;
     public static int sumScore;
+    public static HashMap<String, Integer> types;
     public static double avgDiff;
-    public static int[] chapter;
+    //public static String[] chapter;
+    public static HashMap<String, Integer> chapter;
     public static double avgDist;
     public static int sumTime;
     //public static int[] idQuestions;
@@ -30,12 +33,13 @@ public class Exam {
                 quest[cas] = new Question(
                         in.nextInt(), //id
                         in.nextInt(), //score
+                        in.next(), //type
                         in.nextDouble(), //difficulty
                         in.next(), //knowledge
                         in.nextDouble(), //distinguishing degree
                         in.nextInt() //time
                 );
-                System.out.println(quest[cas].toString());
+                //System.out.println(quest[cas].toString());
             }
             in.close();
         } catch (IOException e) {

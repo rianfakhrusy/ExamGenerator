@@ -10,7 +10,7 @@ public class Question {
     private int id;
     private String text;
     private int score; //a1
-    private int type;
+    private String type;
     private double difficulty; //a2
     private String knowledgePoint; //a4
     private int exposure;
@@ -20,9 +20,10 @@ public class Question {
     private int solutionTime; //a7
     private int abilityLevel; //a3
 
-    public Question(int id, int score, double difficulty, String knowledgePoint, double distinguishingDegree, int solutionTIme) {
+    public Question(int id, int score, String type, double difficulty, String knowledgePoint, double distinguishingDegree, int solutionTIme) {
         this.id = id;
         this.score = score;
+        this.type = type;
         this.difficulty = difficulty;
         this.knowledgePoint = knowledgePoint;
         this.distinguishingDegree = distinguishingDegree;
@@ -74,14 +75,14 @@ public class Question {
     /**
      * @return the type
      */
-    public int getType() {
+    public String getType() {
         return type;
     }
 
     /**
      * @param type the type to set
      */
-    public void setType(int type) {
+    public void setType(String type) {
         this.type = type;
     }
 

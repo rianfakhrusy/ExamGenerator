@@ -1,6 +1,7 @@
 package examgenerator;
 
 import java.io.IOException;
+import java.util.HashMap;
 
 /*
 * The MIT License
@@ -39,11 +40,32 @@ public class Genetic {
         e.load(filename);
         
         // input
-        Exam.nQuestion = 10;
+        Exam.nQuestion = 0;
         Exam.sumScore = 100;
+        
+        Exam.types = new HashMap<>();
+        Exam.types.put("multichoice", 5);
+        Exam.types.put("essay", 5);
+        for (String key: Exam.types.keySet()) {
+            //System.out.println("key : " + key);
+            //System.out.println("value : " + Exam.chapter.get(key));
+            Exam.nQuestion += Exam.types.get(key);
+        }
+        
         Exam.avgDiff = 0.5;
-        Exam.chapter = new int[]{0,0,1,1,2,1,1,2,1,1};
+        
+        Exam.chapter = new HashMap<>();
+        Exam.chapter.put("Induksi", 1);
+        Exam.chapter.put("Fungsi", 1);
+        Exam.chapter.put("Kombinatorial", 2);
+        Exam.chapter.put("Rekurensi", 1);
+        Exam.chapter.put("Graf", 1);
+        Exam.chapter.put("Pohon", 1);
+        Exam.chapter.put("Kompleksitas", 2);
+        Exam.chapter.put("Boolean", 1);
+        
         Exam.avgDist = 0.5;
+        
         Exam.sumTime = 120;
 
         // The size of the simulation population

@@ -23,6 +23,7 @@ package examgenerator;
 */
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Random;
 
@@ -111,8 +112,9 @@ public class Chromosome implements Comparable<Chromosome> {
         
         // Constraint
         int sumScore = Exam.sumScore; int iScore = 0;
+        HashMap<String,Integer> types = Exam.types; HashMap<String, Integer> iTypes = new HashMap<>();
         double avgDiff = Exam.avgDiff; double iDiff = 0f;
-        int[] chapter = Exam.chapter;
+        HashMap<String,Integer> chapter = Exam.chapter; HashMap<String, Integer> iChapter = new HashMap<>();
         double avgDist = Exam.avgDist; double iDist = 0f;
         int sumTime = Exam.sumTime; int iTime = 0;
         
@@ -121,9 +123,35 @@ public class Chromosome implements Comparable<Chromosome> {
             iDiff += Exam.quest[gene[i]-1].getDifficulty();
             iDist += Exam.quest[gene[i]-1].getDistinguishingDegree();
             iTime += Exam.quest[gene[i]-1].getSolutionTime();
+            //iChapter[Exam.quest[gene[i]-1].getKnowledgePoint()] += 1;
+            
+            //Chapter
+            String s = Exam.quest[gene[i]-1].getKnowledgePoint();
+            if(iChapter.containsKey(s)){
+                iChapter.put(s, iChapter.get(s)+1);
+            }else{
+                iChapter.put(s, 1);
+            }
+            
+            //Types
+            String ss = Exam.quest[gene[i]-1].getType();
+            if(iTypes.containsKey(ss)){
+                iTypes.put(ss, iTypes.get(ss)+1);
+            }else{
+                iTypes.put(ss, 1);
+            }
         }
+        
+        /*    
+        for(String ss: iChapter.keySet()){
+            System.out.println(ss + " " + iChapter.get(ss));
+        }
+        System.out.println();*/
+        
         iDiff /= gene.length;
         iDist /= gene.length;
+        
+        
         
         double NRE = 0f;
         NRE += Math.abs((double)sumScore - (double)iScore)/(double)sumScore;
@@ -135,8 +163,20 @@ public class Chromosome implements Comparable<Chromosome> {
         NRE += Math.abs((double)sumTime - (double)iTime)/(double)sumTime;
         //System.out.println(NRE);
         
-        double fitness = 1f/(1f+NRE);
+        for(String s: chapter.keySet()){
+            NRE += Math.abs((double)chapter.get(s) - (double)iChapter.getOrDefault(s, 0))/
+                    (double)chapter.get(s);
+        }
+        //System.out.println(NRE);
         
+        for(String s: types.keySet()){
+            NRE += Math.abs((double)types.get(s) - (double)iTypes.getOrDefault(s, 0))/
+                    (double)types.get(s);
+        }
+        //System.out.println(NRE);
+        
+        double fitness = 1f/(1f+NRE);
+        //System.out.println(fitness);
         
         
         /*
