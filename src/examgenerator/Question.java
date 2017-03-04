@@ -200,7 +200,7 @@ public class Question {
 
     @Override
     public String toString() {
-        return "Question{" + "id=" + id + ", score=" + score + ", difficulty=" + difficulty + ", knowledgePoint=" + knowledgePoint + ", distinguishingDegree=" + distinguishingDegree + ", solutionTime=" + solutionTime + '}';
+        return "Question{" + "id=" + id + ", score=" + score + ", type=" + type + ", difficulty=" + difficulty + ", knowledgePoint=" + knowledgePoint + ", distinguishingDegree=" + distinguishingDegree + ", solutionTime=" + solutionTime + '}';
     }
     
 }
