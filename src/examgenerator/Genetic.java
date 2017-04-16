@@ -111,10 +111,11 @@ public class Genetic {
             System.out.println("Generation " + i + ": " + best.getGene());
             pop.evolve();
             best = pop.getPopulation()[0];
-            //for (int a=0;a<populationSize;a++){
-                //System.out.println("CROSS " + a + " " + pop.cross.get(a) );
-                //System.out.println("MUTATE " + a + " " + pop.mutate.get(a) );
-            //}
+            /*
+            for (int a=0;a<5;a++){
+                System.out.println("Best " + (a+1) + " " + pop.getPopulation()[a].getGene() );
+            }
+            System.out.println();*/
             //ngambil hasil cross pake "pop.cross.get(GENkeBERAPA)"
             //ngambil hasil mutate pake "pop.mutate.get(GENkeBERAPA)"
         }
