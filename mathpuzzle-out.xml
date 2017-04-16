@@ -1,0 +1,2126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 3312  -->
+  <question type="choicegnrquiz">
+    <name>
+      <text>simplify  a6q4/a3</text>
+    </name>
+    <questiontext format="html">
+      <text>Choose the correct simplification of $$\frac{a^6q^4}{a^3}$$</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+<time>60</time>
+<difficulty>0.2</difficulty>
+<distinguishingdegree>0.68</distinguishingdegree>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>$$a^3q^4$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$a^18q^4$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$1^3q^4$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$a^6q^1$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3308  -->
+  <question type="choicegnrquiz">
+    <name>
+      <text>simplify  a8i3/a4</text>
+    </name>
+    <questiontext format="html">
+      <text>Choose the correct simplification of $$\frac{a^8i^3}{a^4}$$</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+<time>240</time>
+<difficulty>0.69</difficulty>
+<distinguishingdegree>0.6</distinguishingdegree>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>$$a^4i^3$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$a^12i^3$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$1^4i^3$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$a^8i^-1$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3307  -->
+  <question type="choicegnrquiz">
+    <name>
+      <text>simplify  d10y5/d8</text>
+    </name>
+    <questiontext format="html">
+      <text>Choose the correct simplification of $$\frac{d^10y^5}{d^8}$$</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+<time>540</time>
+<difficulty>0.9</difficulty>
+<distinguishingdegree>0.73</distinguishingdegree>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>$$d^2y^5$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$d^18y^5$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$d^80y^5$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$1^2y^5$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3319  -->
+  <question type="choicegnrquiz">
+    <name>
+      <text>simplify  d7m6/d3</text>
+    </name>
+    <questiontext format="html">
+      <text>Choose the correct simplification of $$\frac{d^7m^6}{d^3}$$</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+<time>360</time>
+<difficulty>0.28</difficulty>
+<distinguishingdegree>0.85</distinguishingdegree>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>$$d^4m^6$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$d^21m^6$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$d^7m^3$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$d^4m^9$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3321  -->
+  <question type="choicegnrquiz">
+    <name>
+      <text>simplify  e7g6/e7</text>
+    </name>
+    <questiontext format="html">
+      <text>Choose the correct simplification of $$\frac{e^7g^6}{e^7}$$</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+<time>480</time>
+<difficulty>0.42</difficulty>
+<distinguishingdegree>0.39</distinguishingdegree>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>$$g^6$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$e^49g^6$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$e^7g^-1$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$e^0g^13$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3304  -->
+  <question type="choicegnrquiz">
+    <name>
+      <text>simplify  h6z5/h6</text>
+    </name>
+    <questiontext format="html">
+      <text>Choose the correct simplification of $$\frac{h^6z^5}{h^6}$$</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+<time>120</time>
+<difficulty>0.49</difficulty>
+<distinguishingdegree>0.2</distinguishingdegree>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>$$hz^5$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$h^12z^5$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$1^0z^5$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$h^6z^-1$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3317  -->
+  <question type="choicegnrquiz">
+    <name>
+      <text>simplify  h8n4/h7</text>
+    </name>
+    <questiontext format="html">
+      <text>Choose the correct simplification of $$\frac{h^8n^4}{h^7}$$</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+<time>420</time>
+<difficulty>0.2</difficulty>
+<distinguishingdegree>0.82</distinguishingdegree>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>$$hn^4$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$h^56n^4$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$n^4$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$h^8n^-3$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3316  -->
+  <question type="choicegnrquiz">
+    <name>
+      <text>simplify  i10r4/i8</text>
+    </name>
+    <questiontext format="html">
+      <text>Choose the correct simplification of $$\frac{i^10r^4}{i^8}$$</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+<time>480</time>
+<difficulty>0.77</difficulty>
+<distinguishingdegree>0.46</distinguishingdegree>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>$$i^2r^4$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$i^18r^4$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$i^80r^4$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$1^2r^4$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3323  -->
+  <question type="choicegnrquiz">
+    <name>
+      <text>simplify  i9x5/i3</text>
+    </name>
+    <questiontext format="html">
+      <text>Choose the correct simplification of $$\frac{i^9x^5}{i^3}$$</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+<time>120</time>
+<difficulty>0.39</difficulty>
+<distinguishingdegree>0.85</distinguishingdegree>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>$$i^6x^5$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$i^27x^5$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$1^6x^5$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$i^9x^2$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3303  -->
+  <question type="choicegnrquiz">
+    <name>
+      <text>simplify  k5p4/k3</text>
+    </name>
+    <questiontext format="html">
+      <text>Choose the correct simplification of $$\frac{k^5p^4}{k^3}$$</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+<time>360</time>
+<difficulty>0.84</difficulty>
+<distinguishingdegree>0.81</distinguishingdegree>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>$$k^2p^4$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$k^15p^4$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$1^2p^4$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$k^5p^1$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3306  -->
+  <question type="choicegnrquiz">
+    <name>
+      <text>simplify  k9k7/k6</text>
+    </name>
+    <questiontext format="html">
+      <text>Choose the correct simplification of $$\frac{k^9k^7}{k^6}$$</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+<time>120</time>
+<difficulty>0.16</difficulty>
+<distinguishingdegree>0.54</distinguishingdegree>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>$$k^3k^7$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$k^15k^7$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$1^3k^7$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$k^9k^1$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3313  -->
+  <question type="choicegnrquiz">
+    <name>
+      <text>simplify  l3f3/l3</text>
+    </name>
+    <questiontext format="html">
+      <text>Choose the correct simplification of $$\frac{l^3f^3}{l^3}$$</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+<time>120</time>
+<difficulty>0.62</difficulty>
+<distinguishingdegree>0.92</distinguishingdegree>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>$$f^3$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$l^9f^3$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$1^0f^3$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$l^3f^0$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3309  -->
+  <question type="choicegnrquiz">
+    <name>
+      <text>simplify  l4r5/l2</text>
+    </name>
+    <questiontext format="html">
+      <text>Choose the correct simplification of $$\frac{l^4r^5}{l^2}$$</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+<time>540</time>
+<difficulty>0.08</difficulty>
+<distinguishingdegree>0.53</distinguishingdegree>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>$$l^2r^5$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$l^8r^5$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$1^2r^5$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$l^4r^3$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3322  -->
+  <question type="choicegnrquiz">
+    <name>
+      <text>simplify  l5c3/l5</text>
+    </name>
+    <questiontext format="html">
+      <text>Choose the correct simplification of $$\frac{l^5c^3}{l^5}$$</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+<time>420</time>
+<difficulty>0.72</difficulty>
+<distinguishingdegree>0.42</distinguishingdegree>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>$$l^0c^3$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$l^10c^3$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$1^0c^3$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$l^5c^-2$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3324  -->
+  <question type="choicegnrquiz">
+    <name>
+      <text>simplify  l7f3/l5</text>
+    </name>
+    <questiontext format="html">
+      <text>Choose the correct simplification of $$\frac{l^7f^3}{l^5}$$</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+<time>600</time>
+<difficulty>0.09</difficulty>
+<distinguishingdegree>0.74</distinguishingdegree>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>$$l^2f^3$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$l^35f^3$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$l^7f^-2$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$l^2f^8$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3318  -->
+  <question type="choicegnrquiz">
+    <name>
+      <text>simplify  p8s6/p7</text>
+    </name>
+    <questiontext format="html">
+      <text>Choose the correct simplification of $$\frac{p^8s^6}{p^7}$$</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+<time>300</time>
+<difficulty>0.6</difficulty>
+<distinguishingdegree>0.74</distinguishingdegree>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>$$ps^6$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$p^15s^6$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$1^1s^6$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$p^8s^-1$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3310  -->
+  <question type="choicegnrquiz">
+    <name>
+      <text>simplify  q5b4/q5</text>
+    </name>
+    <questiontext format="html">
+      <text>Choose the correct simplification of $$\frac{q^5b^4}{q^5}$$</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+<time>120</time>
+<difficulty>0.38</difficulty>
+<distinguishingdegree>0.2</distinguishingdegree>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>$$qb^4$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$q^25b^4$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$1^0b^4$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$q^5b^-1$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3320  -->
+  <question type="choicegnrquiz">
+    <name>
+      <text>simplify  r6k4/r6</text>
+    </name>
+    <questiontext format="html">
+      <text>Choose the correct simplification of $$\frac{r^6k^4}{r^6}$$</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+<time>600</time>
+<difficulty>0.87</difficulty>
+<distinguishingdegree>0.5</distinguishingdegree>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>$$k^4$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$r^12k^4$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$r^36k^4$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$1^0k^4$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3325  -->
+  <question type="choicegnrquiz">
+    <name>
+      <text>simplify  t9k2/t5</text>
+    </name>
+    <questiontext format="html">
+      <text>Choose the correct simplification of $$\frac{t^9k^2}{t^5}$$</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+<time>240</time>
+<difficulty>0.52</difficulty>
+<distinguishingdegree>0.11</distinguishingdegree>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>$$t^4k^2$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$t^45k^2$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$1^4k^2$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$t^9k^-3$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3314  -->
+  <question type="choicegnrquiz">
+    <name>
+      <text>simplify  u8l3/u2</text>
+    </name>
+    <questiontext format="html">
+      <text>Choose the correct simplification of $$\frac{u^8l^3}{u^2}$$</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+<time>600</time>
+<difficulty>0.69</difficulty>
+<distinguishingdegree>0.93</distinguishingdegree>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>$$u^6l^3$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$u^10l^3$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$1^6l^3$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$u^8l^1$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3311  -->
+  <question type="choicegnrquiz">
+    <name>
+      <text>simplify  w5v2/w5</text>
+    </name>
+    <questiontext format="html">
+      <text>Choose the correct simplification of $$\frac{w^5v^2}{w^5}$$</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+<time>600</time>
+<difficulty>0.21</difficulty>
+<distinguishingdegree>0.23</distinguishingdegree>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>$$w^0v^2$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$w^25v^2$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$1^0v^2$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$w^5v^-3$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3315  -->
+  <question type="choicegnrquiz">
+    <name>
+      <text>simplify  y8b4/y6</text>
+    </name>
+    <questiontext format="html">
+      <text>Choose the correct simplification of $$\frac{y^8b^4}{y^6}$$</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+<time>240</time>
+<difficulty>0.78</difficulty>
+<distinguishingdegree>0.25</distinguishingdegree>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>$$y^2b^4$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$y^14b^4$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$1^2b^4$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$y^8b^-2$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3305  -->
+  <question type="choicegnrquiz">
+    <name>
+      <text>simplify  z7z4/z3</text>
+    </name>
+    <questiontext format="html">
+      <text>Choose the correct simplification of $$\frac{z^7z^4}{z^3}$$</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+<time>300</time>
+<difficulty>0.83</difficulty>
+<distinguishingdegree>0.92</distinguishingdegree>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>$$z^4z^4$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$z^21z^4$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$1^4z^4$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>$$z^7z^1$$</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3246  -->
+  <question type="shortgnrquiz">
+    <name>
+      <text>Arithmetics Puzzle - Subtraction</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Replace a, b and c with a single digit such that the subtraction is true: 	<br /><table width="200" border="1"><tbody><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	9	<br /></td><td width="50" valign="top" style="text-align: center;">	1	<br /></td><td width="50" valign="top" style="text-align: center;">	8	<br /></td></tr><tr><td width="50" valign="top" style="text-align: center;"><font size="4">	-	<br /></font></td><td width="50" valign="top" style="text-align: center;"> 	a	<br /></td><td width="50" valign="top" style="text-align: center;">	6	<br /></td><td width="50" valign="top" style="text-align: center;">	c	</td></tr><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	2	<br /></td><td width="50" valign="top" style="text-align: center;">	b	</td><td width="50" valign="top" style="text-align: center;">	4	<br /></td></tr></tbody></table>	Write your answer in the format a*b*c* where the *'s are the answers respectively.<br />]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+<time>300</time>
+<difficulty>0.57</difficulty>
+<distinguishingdegree>0.31</distinguishingdegree>
+    <usecase>0</usecase>
+    <answer fraction="100" format="plain_text">
+      <text>a6b5c4</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3247  -->
+  <question type="shortgnrquiz">
+    <name>
+      <text>Arithmetics Puzzle - Subtraction</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Replace a, b and c with a single digit such that the subtraction is true: 	<br /><table width="200" border="1"><tbody><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	5	<br /></td><td width="50" valign="top" style="text-align: center;">	9	<br /></td><td width="50" valign="top" style="text-align: center;">	8	<br /></td></tr><tr><td width="50" valign="top" style="text-align: center;"><font size="4">	-	<br /></font></td><td width="50" valign="top" style="text-align: center;"> 	a	<br /></td><td width="50" valign="top" style="text-align: center;">	5	<br /></td><td width="50" valign="top" style="text-align: center;">	c	</td></tr><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	1	<br /></td><td width="50" valign="top" style="text-align: center;">	b	</td><td width="50" valign="top" style="text-align: center;">	3	<br /></td></tr></tbody></table>	Write your answer in the format a*b*c* where the *'s are the answers respectively.<br />]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+<time>480</time>
+<difficulty>0.47</difficulty>
+<distinguishingdegree>0.96</distinguishingdegree>
+    <usecase>0</usecase>
+    <answer fraction="100" format="plain_text">
+      <text>a4b4c5</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3248  -->
+  <question type="shortgnrquiz">
+    <name>
+      <text>Arithmetics Puzzle - Subtraction</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Replace a, b and c with a single digit such that the subtraction is true: 	<br /><table width="200" border="1"><tbody><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	8	<br /></td><td width="50" valign="top" style="text-align: center;">	2	<br /></td><td width="50" valign="top" style="text-align: center;">	3	<br /></td></tr><tr><td width="50" valign="top" style="text-align: center;"><font size="4">	-	<br /></font></td><td width="50" valign="top" style="text-align: center;"> 	a	<br /></td><td width="50" valign="top" style="text-align: center;">	8	<br /></td><td width="50" valign="top" style="text-align: center;">	c	</td></tr><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	5	<br /></td><td width="50" valign="top" style="text-align: center;">	b	</td><td width="50" valign="top" style="text-align: center;">	7	<br /></td></tr></tbody></table>	Write your answer in the format a*b*c* where the *'s are the answers respectively.<br />]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+<time>180</time>
+<difficulty>0.77</difficulty>
+<distinguishingdegree>0.74</distinguishingdegree>
+    <usecase>0</usecase>
+    <answer fraction="100" format="plain_text">
+      <text>a2b3c6</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3249  -->
+  <question type="shortgnrquiz">
+    <name>
+      <text>Arithmetics Puzzle - Subtraction</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Replace a, b and c with a single digit such that the subtraction is true: 	<br /><table width="200" border="1"><tbody><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	5	<br /></td><td width="50" valign="top" style="text-align: center;">	9	<br /></td><td width="50" valign="top" style="text-align: center;">	6	<br /></td></tr><tr><td width="50" valign="top" style="text-align: center;"><font size="4">	-	<br /></font></td><td width="50" valign="top" style="text-align: center;"> 	a	<br /></td><td width="50" valign="top" style="text-align: center;">	5	<br /></td><td width="50" valign="top" style="text-align: center;">	c	</td></tr><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	2	<br /></td><td width="50" valign="top" style="text-align: center;">	b	</td><td width="50" valign="top" style="text-align: center;">	3	<br /></td></tr></tbody></table>	Write your answer in the format a*b*c* where the *'s are the answers respectively.<br />]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+<time>600</time>
+<difficulty>0.36</difficulty>
+<distinguishingdegree>0.38</distinguishingdegree>
+    <usecase>0</usecase>
+    <answer fraction="100" format="plain_text">
+      <text>a3b4c3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3250  -->
+  <question type="shortgnrquiz">
+    <name>
+      <text>Arithmetics Puzzle - Subtraction</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Replace a, b and c with a single digit such that the subtraction is true: 	<br /><table width="200" border="1"><tbody><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	8	<br /></td><td width="50" valign="top" style="text-align: center;">	9	<br /></td><td width="50" valign="top" style="text-align: center;">	6	<br /></td></tr><tr><td width="50" valign="top" style="text-align: center;"><font size="4">	-	<br /></font></td><td width="50" valign="top" style="text-align: center;"> 	a	<br /></td><td width="50" valign="top" style="text-align: center;">	2	<br /></td><td width="50" valign="top" style="text-align: center;">	c	</td></tr><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	2	<br /></td><td width="50" valign="top" style="text-align: center;">	b	</td><td width="50" valign="top" style="text-align: center;">	1	<br /></td></tr></tbody></table>	Write your answer in the format a*b*c* where the *'s are the answers respectively.<br />]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+<time>540</time>
+<difficulty>0.26</difficulty>
+<distinguishingdegree>0.15</distinguishingdegree>
+    <usecase>0</usecase>
+    <answer fraction="100" format="plain_text">
+      <text>a6b7c5</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3251  -->
+  <question type="shortgnrquiz">
+    <name>
+      <text>Arithmetics Puzzle - Subtraction</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Replace a, b and c with a single digit such that the subtraction is true: 	<br /><table width="200" border="1"><tbody><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	8	<br /></td><td width="50" valign="top" style="text-align: center;">	9	<br /></td><td width="50" valign="top" style="text-align: center;">	5	<br /></td></tr><tr><td width="50" valign="top" style="text-align: center;"><font size="4">	-	<br /></font></td><td width="50" valign="top" style="text-align: center;"> 	a	<br /></td><td width="50" valign="top" style="text-align: center;">	5	<br /></td><td width="50" valign="top" style="text-align: center;">	c	</td></tr><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	4	<br /></td><td width="50" valign="top" style="text-align: center;">	b	</td><td width="50" valign="top" style="text-align: center;">	3	<br /></td></tr></tbody></table>	Write your answer in the format a*b*c* where the *'s are the answers respectively.<br />]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+<time>240</time>
+<difficulty>0.32</difficulty>
+<distinguishingdegree>0.11</distinguishingdegree>
+    <usecase>0</usecase>
+    <answer fraction="100" format="plain_text">
+      <text>a4b4c2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3252  -->
+  <question type="shortgnrquiz">
+    <name>
+      <text>Arithmetics Puzzle - Subtraction</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Replace a, b and c with a single digit such that the subtraction is true: 	<br /><table width="200" border="1"><tbody><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	9	<br /></td><td width="50" valign="top" style="text-align: center;">	3	<br /></td><td width="50" valign="top" style="text-align: center;">	6	<br /></td></tr><tr><td width="50" valign="top" style="text-align: center;"><font size="4">	-	<br /></font></td><td width="50" valign="top" style="text-align: center;"> 	a	<br /></td><td width="50" valign="top" style="text-align: center;">	3	<br /></td><td width="50" valign="top" style="text-align: center;">	c	</td></tr><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	3	<br /></td><td width="50" valign="top" style="text-align: center;">	b	</td><td width="50" valign="top" style="text-align: center;">	9	<br /></td></tr></tbody></table>	Write your answer in the format a*b*c* where the *'s are the answers respectively.<br />]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+<time>300</time>
+<difficulty>0.95</difficulty>
+<distinguishingdegree>0.49</distinguishingdegree>
+    <usecase>0</usecase>
+    <answer fraction="100" format="plain_text">
+      <text>a5b9c7</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3253  -->
+  <question type="shortgnrquiz">
+    <name>
+      <text>Arithmetics Puzzle - Subtraction</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Replace a, b and c with a single digit such that the subtraction is true: 	<br /><table width="200" border="1"><tbody><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	8	<br /></td><td width="50" valign="top" style="text-align: center;">	1	<br /></td><td width="50" valign="top" style="text-align: center;">	5	<br /></td></tr><tr><td width="50" valign="top" style="text-align: center;"><font size="4">	-	<br /></font></td><td width="50" valign="top" style="text-align: center;"> 	a	<br /></td><td width="50" valign="top" style="text-align: center;">	4	<br /></td><td width="50" valign="top" style="text-align: center;">	c	</td></tr><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	1	<br /></td><td width="50" valign="top" style="text-align: center;">	b	</td><td width="50" valign="top" style="text-align: center;">	4	<br /></td></tr></tbody></table>	Write your answer in the format a*b*c* where the *'s are the answers respectively.<br />]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+<time>180</time>
+<difficulty>0.84</difficulty>
+<distinguishingdegree>0.06</distinguishingdegree>
+    <usecase>0</usecase>
+    <answer fraction="100" format="plain_text">
+      <text>a6b7c1</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3254  -->
+  <question type="shortgnrquiz">
+    <name>
+      <text>Arithmetics Puzzle - Subtraction</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Replace a, b and c with a single digit such that the subtraction is true: 	<br /><table width="200" border="1"><tbody><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	4	<br /></td><td width="50" valign="top" style="text-align: center;">	1	<br /></td><td width="50" valign="top" style="text-align: center;">	7	<br /></td></tr><tr><td width="50" valign="top" style="text-align: center;"><font size="4">	-	<br /></font></td><td width="50" valign="top" style="text-align: center;"> 	a	<br /></td><td width="50" valign="top" style="text-align: center;">	3	<br /></td><td width="50" valign="top" style="text-align: center;">	c	</td></tr><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	1	<br /></td><td width="50" valign="top" style="text-align: center;">	b	</td><td width="50" valign="top" style="text-align: center;">	7	<br /></td></tr></tbody></table>	Write your answer in the format a*b*c* where the *'s are the answers respectively.<br />]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+<time>480</time>
+<difficulty>0.2</difficulty>
+<distinguishingdegree>0.01</distinguishingdegree>
+    <usecase>0</usecase>
+    <answer fraction="100" format="plain_text">
+      <text>a2b8c0</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3255  -->
+  <question type="shortgnrquiz">
+    <name>
+      <text>Arithmetics Puzzle - Subtraction</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Replace a, b and c with a single digit such that the subtraction is true: 	<br /><table width="200" border="1"><tbody><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	6	<br /></td><td width="50" valign="top" style="text-align: center;">	6	<br /></td><td width="50" valign="top" style="text-align: center;">	1	<br /></td></tr><tr><td width="50" valign="top" style="text-align: center;"><font size="4">	-	<br /></font></td><td width="50" valign="top" style="text-align: center;"> 	a	<br /></td><td width="50" valign="top" style="text-align: center;">	6	<br /></td><td width="50" valign="top" style="text-align: center;">	c	</td></tr><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	2	<br /></td><td width="50" valign="top" style="text-align: center;">	b	</td><td width="50" valign="top" style="text-align: center;">	7	<br /></td></tr></tbody></table>	Write your answer in the format a*b*c* where the *'s are the answers respectively.<br />]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+<time>180</time>
+<difficulty>0.51</difficulty>
+<distinguishingdegree>0.44</distinguishingdegree>
+    <usecase>0</usecase>
+    <answer fraction="100" format="plain_text">
+      <text>a3b9c4</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3256  -->
+  <question type="shortgnrquiz">
+    <name>
+      <text>Arithmetics Puzzle - Subtraction</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Replace a, b and c with a single digit such that the subtraction is true: 	<br /><table width="200" border="1"><tbody><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	8	<br /></td><td width="50" valign="top" style="text-align: center;">	6	<br /></td><td width="50" valign="top" style="text-align: center;">	5	<br /></td></tr><tr><td width="50" valign="top" style="text-align: center;"><font size="4">	-	<br /></font></td><td width="50" valign="top" style="text-align: center;"> 	a	<br /></td><td width="50" valign="top" style="text-align: center;">	1	<br /></td><td width="50" valign="top" style="text-align: center;">	c	</td></tr><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	5	<br /></td><td width="50" valign="top" style="text-align: center;">	b	</td><td width="50" valign="top" style="text-align: center;">	2	<br /></td></tr></tbody></table>	Write your answer in the format a*b*c* where the *'s are the answers respectively.<br />]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+<time>180</time>
+<difficulty>0.35</difficulty>
+<distinguishingdegree>0.22</distinguishingdegree>
+    <usecase>0</usecase>
+    <answer fraction="100" format="plain_text">
+      <text>a3b5c3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3257  -->
+  <question type="shortgnrquiz">
+    <name>
+      <text>Arithmetics Puzzle - Subtraction</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Replace a, b and c with a single digit such that the subtraction is true: 	<br /><table width="200" border="1"><tbody><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	8	<br /></td><td width="50" valign="top" style="text-align: center;">	1	<br /></td><td width="50" valign="top" style="text-align: center;">	9	<br /></td></tr><tr><td width="50" valign="top" style="text-align: center;"><font size="4">	-	<br /></font></td><td width="50" valign="top" style="text-align: center;"> 	a	<br /></td><td width="50" valign="top" style="text-align: center;">	7	<br /></td><td width="50" valign="top" style="text-align: center;">	c	</td></tr><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	3	<br /></td><td width="50" valign="top" style="text-align: center;">	b	</td><td width="50" valign="top" style="text-align: center;">	7	<br /></td></tr></tbody></table>	Write your answer in the format a*b*c* where the *'s are the answers respectively.<br />]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+<time>240</time>
+<difficulty>0.18</difficulty>
+<distinguishingdegree>0.93</distinguishingdegree>
+    <usecase>0</usecase>
+    <answer fraction="100" format="plain_text">
+      <text>a4b4c2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3258  -->
+  <question type="shortgnrquiz">
+    <name>
+      <text>Arithmetics Puzzle - Subtraction</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Replace a, b and c with a single digit such that the subtraction is true: 	<br /><table width="200" border="1"><tbody><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	9	<br /></td><td width="50" valign="top" style="text-align: center;">	9	<br /></td><td width="50" valign="top" style="text-align: center;">	8	<br /></td></tr><tr><td width="50" valign="top" style="text-align: center;"><font size="4">	-	<br /></font></td><td width="50" valign="top" style="text-align: center;"> 	a	<br /></td><td width="50" valign="top" style="text-align: center;">	7	<br /></td><td width="50" valign="top" style="text-align: center;">	c	</td></tr><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	3	<br /></td><td width="50" valign="top" style="text-align: center;">	b	</td><td width="50" valign="top" style="text-align: center;">	6	<br /></td></tr></tbody></table>	Write your answer in the format a*b*c* where the *'s are the answers respectively.<br />]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+<time>120</time>
+<difficulty>0.14</difficulty>
+<distinguishingdegree>0.83</distinguishingdegree>
+    <usecase>0</usecase>
+    <answer fraction="100" format="plain_text">
+      <text>a6b2c2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3259  -->
+  <question type="shortgnrquiz">
+    <name>
+      <text>Arithmetics Puzzle - Subtraction</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Replace a, b and c with a single digit such that the subtraction is true: 	<br /><table width="200" border="1"><tbody><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	5	<br /></td><td width="50" valign="top" style="text-align: center;">	1	<br /></td><td width="50" valign="top" style="text-align: center;">	1	<br /></td></tr><tr><td width="50" valign="top" style="text-align: center;"><font size="4">	-	<br /></font></td><td width="50" valign="top" style="text-align: center;"> 	a	<br /></td><td width="50" valign="top" style="text-align: center;">	1	<br /></td><td width="50" valign="top" style="text-align: center;">	c	</td></tr><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	1	<br /></td><td width="50" valign="top" style="text-align: center;">	b	</td><td width="50" valign="top" style="text-align: center;">	6	<br /></td></tr></tbody></table>	Write your answer in the format a*b*c* where the *'s are the answers respectively.<br />]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+<time>600</time>
+<difficulty>0.1</difficulty>
+<distinguishingdegree>0.66</distinguishingdegree>
+    <usecase>0</usecase>
+    <answer fraction="100" format="plain_text">
+      <text>a3b9c5</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3260  -->
+  <question type="shortgnrquiz">
+    <name>
+      <text>Arithmetics Puzzle - Subtraction</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Replace a, b and c with a single digit such that the subtraction is true: 	<br /><table width="200" border="1"><tbody><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	9	<br /></td><td width="50" valign="top" style="text-align: center;">	9	<br /></td><td width="50" valign="top" style="text-align: center;">	2	<br /></td></tr><tr><td width="50" valign="top" style="text-align: center;"><font size="4">	-	<br /></font></td><td width="50" valign="top" style="text-align: center;"> 	a	<br /></td><td width="50" valign="top" style="text-align: center;">	3	<br /></td><td width="50" valign="top" style="text-align: center;">	c	</td></tr><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	3	<br /></td><td width="50" valign="top" style="text-align: center;">	b	</td><td width="50" valign="top" style="text-align: center;">	4	<br /></td></tr></tbody></table>	Write your answer in the format a*b*c* where the *'s are the answers respectively.<br />]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+<time>180</time>
+<difficulty>0.01</difficulty>
+<distinguishingdegree>0.22</distinguishingdegree>
+    <usecase>0</usecase>
+    <answer fraction="100" format="plain_text">
+      <text>a6b5c8</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3261  -->
+  <question type="shortgnrquiz">
+    <name>
+      <text>Arithmetics Puzzle - Subtraction</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Replace a, b and c with a single digit such that the subtraction is true: 	<br /><table width="200" border="1"><tbody><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	6	<br /></td><td width="50" valign="top" style="text-align: center;">	9	<br /></td><td width="50" valign="top" style="text-align: center;">	0	<br /></td></tr><tr><td width="50" valign="top" style="text-align: center;"><font size="4">	-	<br /></font></td><td width="50" valign="top" style="text-align: center;"> 	a	<br /></td><td width="50" valign="top" style="text-align: center;">	6	<br /></td><td width="50" valign="top" style="text-align: center;">	c	</td></tr><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	1	<br /></td><td width="50" valign="top" style="text-align: center;">	b	</td><td width="50" valign="top" style="text-align: center;">	8	<br /></td></tr></tbody></table>	Write your answer in the format a*b*c* where the *'s are the answers respectively.<br />]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+<time>240</time>
+<difficulty>0.57</difficulty>
+<distinguishingdegree>0.26</distinguishingdegree>
+    <usecase>0</usecase>
+    <answer fraction="100" format="plain_text">
+      <text>a5b2c2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3262  -->
+  <question type="shortgnrquiz">
+    <name>
+      <text>Arithmetics Puzzle - Subtraction</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Replace a, b and c with a single digit such that the subtraction is true: 	<br /><table width="200" border="1"><tbody><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	7	<br /></td><td width="50" valign="top" style="text-align: center;">	7	<br /></td><td width="50" valign="top" style="text-align: center;">	0	<br /></td></tr><tr><td width="50" valign="top" style="text-align: center;"><font size="4">	-	<br /></font></td><td width="50" valign="top" style="text-align: center;"> 	a	<br /></td><td width="50" valign="top" style="text-align: center;">	9	<br /></td><td width="50" valign="top" style="text-align: center;">	c	</td></tr><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	3	<br /></td><td width="50" valign="top" style="text-align: center;">	b	</td><td width="50" valign="top" style="text-align: center;">	2	<br /></td></tr></tbody></table>	Write your answer in the format a*b*c* where the *'s are the answers respectively.<br />]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+<time>300</time>
+<difficulty>0.89</difficulty>
+<distinguishingdegree>0.19</distinguishingdegree>
+    <usecase>0</usecase>
+    <answer fraction="100" format="plain_text">
+      <text>a3b7c8</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3263  -->
+  <question type="shortgnrquiz">
+    <name>
+      <text>Arithmetics Puzzle - Subtraction</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Replace a, b and c with a single digit such that the subtraction is true: 	<br /><table width="200" border="1"><tbody><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	9	<br /></td><td width="50" valign="top" style="text-align: center;">	4	<br /></td><td width="50" valign="top" style="text-align: center;">	7	<br /></td></tr><tr><td width="50" valign="top" style="text-align: center;"><font size="4">	-	<br /></font></td><td width="50" valign="top" style="text-align: center;"> 	a	<br /></td><td width="50" valign="top" style="text-align: center;">	2	<br /></td><td width="50" valign="top" style="text-align: center;">	c	</td></tr><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	4	<br /></td><td width="50" valign="top" style="text-align: center;">	b	</td><td width="50" valign="top" style="text-align: center;">	6	<br /></td></tr></tbody></table>	Write your answer in the format a*b*c* where the *'s are the answers respectively.<br />]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+<time>180</time>
+<difficulty>0.7</difficulty>
+<distinguishingdegree>0.35</distinguishingdegree>
+    <usecase>0</usecase>
+    <answer fraction="100" format="plain_text">
+      <text>a5b2c1</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3264  -->
+  <question type="shortgnrquiz">
+    <name>
+      <text>Arithmetics Puzzle - Subtraction</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Replace a, b and c with a single digit such that the subtraction is true: 	<br /><table width="200" border="1"><tbody><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	9	<br /></td><td width="50" valign="top" style="text-align: center;">	6	<br /></td><td width="50" valign="top" style="text-align: center;">	5	<br /></td></tr><tr><td width="50" valign="top" style="text-align: center;"><font size="4">	-	<br /></font></td><td width="50" valign="top" style="text-align: center;"> 	a	<br /></td><td width="50" valign="top" style="text-align: center;">	6	<br /></td><td width="50" valign="top" style="text-align: center;">	c	</td></tr><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	3	<br /></td><td width="50" valign="top" style="text-align: center;">	b	</td><td width="50" valign="top" style="text-align: center;">	0	<br /></td></tr></tbody></table>	Write your answer in the format a*b*c* where the *'s are the answers respectively.<br />]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+<time>60</time>
+<difficulty>0.33</difficulty>
+<distinguishingdegree>0.62</distinguishingdegree>
+    <usecase>0</usecase>
+    <answer fraction="100" format="plain_text">
+      <text>a6b0c5</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3265  -->
+  <question type="shortgnrquiz">
+    <name>
+      <text>Arithmetics Puzzle - Subtraction</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Replace a, b and c with a single digit such that the subtraction is true: 	<br /><table width="200" border="1"><tbody><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	5	<br /></td><td width="50" valign="top" style="text-align: center;">	6	<br /></td><td width="50" valign="top" style="text-align: center;">	8	<br /></td></tr><tr><td width="50" valign="top" style="text-align: center;"><font size="4">	-	<br /></font></td><td width="50" valign="top" style="text-align: center;"> 	a	<br /></td><td width="50" valign="top" style="text-align: center;">	1	<br /></td><td width="50" valign="top" style="text-align: center;">	c	</td></tr><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	3	<br /></td><td width="50" valign="top" style="text-align: center;">	b	</td><td width="50" valign="top" style="text-align: center;">	7	<br /></td></tr></tbody></table>	Write your answer in the format a*b*c* where the *'s are the answers respectively.<br />]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+<time>240</time>
+<difficulty>0.16</difficulty>
+<distinguishingdegree>0.81</distinguishingdegree>
+    <usecase>0</usecase>
+    <answer fraction="100" format="plain_text">
+      <text>a2b5c1</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3266  -->
+  <question type="shortgnrquiz">
+    <name>
+      <text>Arithmetics Puzzle - Subtraction</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Replace a, b and c with a single digit such that the subtraction is true: 	<br /><table width="200" border="1"><tbody><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	7	<br /></td><td width="50" valign="top" style="text-align: center;">	1	<br /></td><td width="50" valign="top" style="text-align: center;">	0	<br /></td></tr><tr><td width="50" valign="top" style="text-align: center;"><font size="4">	-	<br /></font></td><td width="50" valign="top" style="text-align: center;"> 	a	<br /></td><td width="50" valign="top" style="text-align: center;">	4	<br /></td><td width="50" valign="top" style="text-align: center;">	c	</td></tr><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	4	<br /></td><td width="50" valign="top" style="text-align: center;">	b	</td><td width="50" valign="top" style="text-align: center;">	9	<br /></td></tr></tbody></table>	Write your answer in the format a*b*c* where the *'s are the answers respectively.<br />]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+<time>240</time>
+<difficulty>0.91</difficulty>
+<distinguishingdegree>0.32</distinguishingdegree>
+    <usecase>0</usecase>
+    <answer fraction="100" format="plain_text">
+      <text>a2b6c1</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3267  -->
+  <question type="shortgnrquiz">
+    <name>
+      <text>Arithmetics Puzzle - Subtraction</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Replace a, b and c with a single digit such that the subtraction is true: 	<br /><table width="200" border="1"><tbody><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	9	<br /></td><td width="50" valign="top" style="text-align: center;">	9	<br /></td><td width="50" valign="top" style="text-align: center;">	5	<br /></td></tr><tr><td width="50" valign="top" style="text-align: center;"><font size="4">	-	<br /></font></td><td width="50" valign="top" style="text-align: center;"> 	a	<br /></td><td width="50" valign="top" style="text-align: center;">	5	<br /></td><td width="50" valign="top" style="text-align: center;">	c	</td></tr><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	6	<br /></td><td width="50" valign="top" style="text-align: center;">	b	</td><td width="50" valign="top" style="text-align: center;">	2	<br /></td></tr></tbody></table>	Write your answer in the format a*b*c* where the *'s are the answers respectively.<br />]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+<time>480</time>
+<difficulty>0.66</difficulty>
+<distinguishingdegree>0.99</distinguishingdegree>
+    <usecase>0</usecase>
+    <answer fraction="100" format="plain_text">
+      <text>a3b4c3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3268  -->
+  <question type="shortgnrquiz">
+    <name>
+      <text>Arithmetics Puzzle - Subtraction</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Replace a, b and c with a single digit such that the subtraction is true: 	<br /><table width="200" border="1"><tbody><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	8	<br /></td><td width="50" valign="top" style="text-align: center;">	2	<br /></td><td width="50" valign="top" style="text-align: center;">	1	<br /></td></tr><tr><td width="50" valign="top" style="text-align: center;"><font size="4">	-	<br /></font></td><td width="50" valign="top" style="text-align: center;"> 	a	<br /></td><td width="50" valign="top" style="text-align: center;">	7	<br /></td><td width="50" valign="top" style="text-align: center;">	c	</td></tr><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	2	<br /></td><td width="50" valign="top" style="text-align: center;">	b	</td><td width="50" valign="top" style="text-align: center;">	7	<br /></td></tr></tbody></table>	Write your answer in the format a*b*c* where the *'s are the answers respectively.<br />]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+<time>540</time>
+<difficulty>0.63</difficulty>
+<distinguishingdegree>0.22</distinguishingdegree>
+    <usecase>0</usecase>
+    <answer fraction="100" format="plain_text">
+      <text>a5b4c4</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3269  -->
+  <question type="shortgnrquiz">
+    <name>
+      <text>Arithmetics Puzzle - Subtraction</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Replace a, b and c with a single digit such that the subtraction is true: 	<br /><table width="200" border="1"><tbody><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	7	<br /></td><td width="50" valign="top" style="text-align: center;">	3	<br /></td><td width="50" valign="top" style="text-align: center;">	4	<br /></td></tr><tr><td width="50" valign="top" style="text-align: center;"><font size="4">	-	<br /></font></td><td width="50" valign="top" style="text-align: center;"> 	a	<br /></td><td width="50" valign="top" style="text-align: center;">	1	<br /></td><td width="50" valign="top" style="text-align: center;">	c	</td></tr><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	2	<br /></td><td width="50" valign="top" style="text-align: center;">	b	</td><td width="50" valign="top" style="text-align: center;">	4	<br /></td></tr></tbody></table>	Write your answer in the format a*b*c* where the *'s are the answers respectively.<br />]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+<time>360</time>
+<difficulty>0.53</difficulty>
+<distinguishingdegree>0.64</distinguishingdegree>
+    <usecase>0</usecase>
+    <answer fraction="100" format="plain_text">
+      <text>a5b2c0</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3270  -->
+  <question type="shortgnrquiz">
+    <name>
+      <text>Arithmetics Puzzle - Subtraction</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Replace a, b and c with a single digit such that the subtraction is true: 	<br /><table width="200" border="1"><tbody><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	7	<br /></td><td width="50" valign="top" style="text-align: center;">	9	<br /></td><td width="50" valign="top" style="text-align: center;">	9	<br /></td></tr><tr><td width="50" valign="top" style="text-align: center;"><font size="4">	-	<br /></font></td><td width="50" valign="top" style="text-align: center;"> 	a	<br /></td><td width="50" valign="top" style="text-align: center;">	7	<br /></td><td width="50" valign="top" style="text-align: center;">	c	</td></tr><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	4	<br /></td><td width="50" valign="top" style="text-align: center;">	b	</td><td width="50" valign="top" style="text-align: center;">	4	<br /></td></tr></tbody></table>	Write your answer in the format a*b*c* where the *'s are the answers respectively.<br />]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+<time>300</time>
+<difficulty>0.6</difficulty>
+<distinguishingdegree>0.28</distinguishingdegree>
+    <usecase>0</usecase>
+    <answer fraction="100" format="plain_text">
+      <text>a3b2c5</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3271  -->
+  <question type="shortgnrquiz">
+    <name>
+      <text>Arithmetics Puzzle - Subtraction</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Replace a, b and c with a single digit such that the subtraction is true: 	<br /><table width="200" border="1"><tbody><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	0	<br /></td><td width="50" valign="top" style="text-align: center;">	4	<br /></td><td width="50" valign="top" style="text-align: center;">	5	<br /></td></tr><tr><td width="50" valign="top" style="text-align: center;"><font size="4">	-	<br /></font></td><td width="50" valign="top" style="text-align: center;"> 	a	<br /></td><td width="50" valign="top" style="text-align: center;">	9	<br /></td><td width="50" valign="top" style="text-align: center;">	c	</td></tr><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	6	<br /></td><td width="50" valign="top" style="text-align: center;">	b	</td><td width="50" valign="top" style="text-align: center;">	8	<br /></td></tr></tbody></table>	Write your answer in the format a*b*c* where the *'s are the answers respectively.<br />]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+<time>360</time>
+<difficulty>0.17</difficulty>
+<distinguishingdegree>0.19</distinguishingdegree>
+    <usecase>0</usecase>
+    <answer fraction="100" format="plain_text">
+      <text>a3b4c7</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3272  -->
+  <question type="shortgnrquiz">
+    <name>
+      <text>Arithmetics Puzzle - Subtraction</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Replace a, b and c with a single digit such that the subtraction is true: 	<br /><table width="200" border="1"><tbody><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	6	<br /></td><td width="50" valign="top" style="text-align: center;">	4	<br /></td><td width="50" valign="top" style="text-align: center;">	7	<br /></td></tr><tr><td width="50" valign="top" style="text-align: center;"><font size="4">	-	<br /></font></td><td width="50" valign="top" style="text-align: center;"> 	a	<br /></td><td width="50" valign="top" style="text-align: center;">	2	<br /></td><td width="50" valign="top" style="text-align: center;">	c	</td></tr><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	4	<br /></td><td width="50" valign="top" style="text-align: center;">	b	</td><td width="50" valign="top" style="text-align: center;">	0	<br /></td></tr></tbody></table>	Write your answer in the format a*b*c* where the *'s are the answers respectively.<br />]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+<time>420</time>
+<difficulty>0.69</difficulty>
+<distinguishingdegree>0.56</distinguishingdegree>
+    <usecase>0</usecase>
+    <answer fraction="100" format="plain_text">
+      <text>a2b2c7</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3273  -->
+  <question type="shortgnrquiz">
+    <name>
+      <text>Arithmetics Puzzle - Subtraction</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Replace a, b and c with a single digit such that the subtraction is true: 	<br /><table width="200" border="1"><tbody><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	7	<br /></td><td width="50" valign="top" style="text-align: center;">	9	<br /></td><td width="50" valign="top" style="text-align: center;">	6	<br /></td></tr><tr><td width="50" valign="top" style="text-align: center;"><font size="4">	-	<br /></font></td><td width="50" valign="top" style="text-align: center;"> 	a	<br /></td><td width="50" valign="top" style="text-align: center;">	5	<br /></td><td width="50" valign="top" style="text-align: center;">	c	</td></tr><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	2	<br /></td><td width="50" valign="top" style="text-align: center;">	b	</td><td width="50" valign="top" style="text-align: center;">	2	<br /></td></tr></tbody></table>	Write your answer in the format a*b*c* where the *'s are the answers respectively.<br />]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+<time>480</time>
+<difficulty>0.19</difficulty>
+<distinguishingdegree>0.83</distinguishingdegree>
+    <usecase>0</usecase>
+    <answer fraction="100" format="plain_text">
+      <text>a5b4c4</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3274  -->
+  <question type="shortgnrquiz">
+    <name>
+      <text>Arithmetics Puzzle - Subtraction</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Replace a, b and c with a single digit such that the subtraction is true: 	<br /><table width="200" border="1"><tbody><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	9	<br /></td><td width="50" valign="top" style="text-align: center;">	1	<br /></td><td width="50" valign="top" style="text-align: center;">	4	<br /></td></tr><tr><td width="50" valign="top" style="text-align: center;"><font size="4">	-	<br /></font></td><td width="50" valign="top" style="text-align: center;"> 	a	<br /></td><td width="50" valign="top" style="text-align: center;">	1	<br /></td><td width="50" valign="top" style="text-align: center;">	c	</td></tr><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	4	<br /></td><td width="50" valign="top" style="text-align: center;">	b	</td><td width="50" valign="top" style="text-align: center;">	5	<br /></td></tr></tbody></table>	Write your answer in the format a*b*c* where the *'s are the answers respectively.<br />]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+<time>180</time>
+<difficulty>0.25</difficulty>
+<distinguishingdegree>0.96</distinguishingdegree>
+    <usecase>0</usecase>
+    <answer fraction="100" format="plain_text">
+      <text>a4b9c9</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3275  -->
+  <question type="shortgnrquiz">
+    <name>
+      <text>Arithmetics Puzzle - Subtraction</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Replace a, b and c with a single digit such that the subtraction is true: 	<br /><table width="200" border="1"><tbody><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	6	<br /></td><td width="50" valign="top" style="text-align: center;">	5	<br /></td><td width="50" valign="top" style="text-align: center;">	5	<br /></td></tr><tr><td width="50" valign="top" style="text-align: center;"><font size="4">	-	<br /></font></td><td width="50" valign="top" style="text-align: center;"> 	a	<br /></td><td width="50" valign="top" style="text-align: center;">	4	<br /></td><td width="50" valign="top" style="text-align: center;">	c	</td></tr><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	1	<br /></td><td width="50" valign="top" style="text-align: center;">	b	</td><td width="50" valign="top" style="text-align: center;">	5	<br /></td></tr></tbody></table>	Write your answer in the format a*b*c* where the *'s are the answers respectively.<br />]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+<time>420</time>
+<difficulty>0.91</difficulty>
+<distinguishingdegree>0.88</distinguishingdegree>
+    <usecase>0</usecase>
+    <answer fraction="100" format="plain_text">
+      <text>a5b1c0</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3276  -->
+  <question type="shortgnrquiz">
+    <name>
+      <text>Arithmetics Puzzle - Subtraction</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Replace a, b and c with a single digit such that the subtraction is true: 	<br /><table width="200" border="1"><tbody><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	0	<br /></td><td width="50" valign="top" style="text-align: center;">	3	<br /></td><td width="50" valign="top" style="text-align: center;">	3	<br /></td></tr><tr><td width="50" valign="top" style="text-align: center;"><font size="4">	-	<br /></font></td><td width="50" valign="top" style="text-align: center;"> 	a	<br /></td><td width="50" valign="top" style="text-align: center;">	6	<br /></td><td width="50" valign="top" style="text-align: center;">	c	</td></tr><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	4	<br /></td><td width="50" valign="top" style="text-align: center;">	b	</td><td width="50" valign="top" style="text-align: center;">	7	<br /></td></tr></tbody></table>	Write your answer in the format a*b*c* where the *'s are the answers respectively.<br />]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+<time>600</time>
+<difficulty>0.44</difficulty>
+<distinguishingdegree>0.85</distinguishingdegree>
+    <usecase>0</usecase>
+    <answer fraction="100" format="plain_text">
+      <text>a5b6c6</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3277  -->
+  <question type="shortgnrquiz">
+    <name>
+      <text>Arithmetics Puzzle - Subtraction</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Replace a, b and c with a single digit such that the subtraction is true: 	<br /><table width="200" border="1"><tbody><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	9	<br /></td><td width="50" valign="top" style="text-align: center;">	5	<br /></td><td width="50" valign="top" style="text-align: center;">	7	<br /></td></tr><tr><td width="50" valign="top" style="text-align: center;"><font size="4">	-	<br /></font></td><td width="50" valign="top" style="text-align: center;"> 	a	<br /></td><td width="50" valign="top" style="text-align: center;">	7	<br /></td><td width="50" valign="top" style="text-align: center;">	c	</td></tr><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	5	<br /></td><td width="50" valign="top" style="text-align: center;">	b	</td><td width="50" valign="top" style="text-align: center;">	8	<br /></td></tr></tbody></table>	Write your answer in the format a*b*c* where the *'s are the answers respectively.<br />]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+<time>60</time>
+<difficulty>0.74</difficulty>
+<distinguishingdegree>0.36</distinguishingdegree>
+    <usecase>0</usecase>
+    <answer fraction="100" format="plain_text">
+      <text>a3b7c9</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3278  -->
+  <question type="shortgnrquiz">
+    <name>
+      <text>Arithmetics Puzzle - Subtraction</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Replace a, b and c with a single digit such that the subtraction is true: 	<br /><table width="200" border="1"><tbody><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	8	<br /></td><td width="50" valign="top" style="text-align: center;">	1	<br /></td><td width="50" valign="top" style="text-align: center;">	3	<br /></td></tr><tr><td width="50" valign="top" style="text-align: center;"><font size="4">	-	<br /></font></td><td width="50" valign="top" style="text-align: center;"> 	a	<br /></td><td width="50" valign="top" style="text-align: center;">	8	<br /></td><td width="50" valign="top" style="text-align: center;">	c	</td></tr><tr><td width="50" valign="top" style="text-align: center;"><br /></td><td width="50" valign="top" style="text-align: center;">	1	<br /></td><td width="50" valign="top" style="text-align: center;">	b	</td><td width="50" valign="top" style="text-align: center;">	2	<br /></td></tr></tbody></table>	Write your answer in the format a*b*c* where the *'s are the answers respectively.<br />]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+<time>540</time>
+<difficulty>0.05</difficulty>
+<distinguishingdegree>0.27</distinguishingdegree>
+    <usecase>0</usecase>
+    <answer fraction="100" format="plain_text">
+      <text>a6b3c1</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+</quiz>

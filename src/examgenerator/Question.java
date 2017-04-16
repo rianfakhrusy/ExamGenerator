@@ -7,10 +7,10 @@ import java.util.Date;
  * @author Rian Fakhrusy
  */
 public class Question {
-    private int id;
+    private int id; //xx
     private String text;
     private int score; //a1
-    private String type;
+    private String type; //yy
     private double difficulty; //a2
     private String knowledgePoint; //a4
     private int exposure;
